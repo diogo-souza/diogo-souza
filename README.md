@@ -3,21 +3,21 @@
 
 - 🔭 I’m currently working on **STI LABS for the UFPE**
 
-- 🌱 I’m currently learning **More about React, mostly about React Native**
-
 - 🤝 I’m currently working as a Freelancer on **Video Editing Portfolio**
 
-- ⚡ I also have some personal project with nerd entertainment where I make videos and articles about movies, games and animes. This profile is @comodonerd [https://www.instagram.com/comodonerd/](https://www.instagram.com/comodonerd/)
+- 🌱 I’m currently learning **More about React, mostly about React Native**
 
-- 💬 Ask me about **What do you want know about me or my codes?**
+- ⚡ I also have some personal project with nerd entertainment where I make videos and articles about movies, games and animes. This profile is Cômodo Nerd -  [https://www.instagram.com/comodonerd/](https://www.instagram.com/comodonerd/)
+
+- 💬 **What do you want know about me or my codes?**
 
 - 📫 How to reach me **digsuk360@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@comodonerd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@comodonerd" height="30" width="40" /></a>
+<a href="https://twitter.com/comodonerd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@comodonerd" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/diogo-souza-78b2b7146" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diogo-souza-78b2b7146" height="30" width="40" /></a>
-<a href="https://instagram.com/@comodonerd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@comodonerd" height="30" width="40" /></a>
+<a href="https://instagram.com/comodonerd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@comodonerd" height="30" width="40" /></a>
 <a href="https://discord.gg/#7501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#7501" height="30" width="40" /></a>
 </p>
 

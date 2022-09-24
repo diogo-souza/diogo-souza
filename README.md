@@ -68,4 +68,11 @@
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
 <h3 align="center">:fire: My Stats:</h3>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=diogo-souza&theme=dark)](https://git.io/streak-stats)
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diogo-souza&theme=dark" alt="diogo-souza" /></p>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diogo-souza&show_icons=true&locale=en&theme=dark" alt="diogo-souza" /></p>
+
+<h3 align="center">Most Used Languages:</h3>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diogo-souza&show_icons=true&locale=en&layout=compact&theme=dark" alt="diogo-souza" /></p>

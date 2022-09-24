@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Diogo Souza</h1>
-<h3 align="center">Passionate about learning and programming. In my free time I'm coding a little more and going to movie theaters</h3>
+<h3 align="center">Passionate about learning and programming. Love coding a little more and going to the Cinema</h3>
 
-- 🔭 I’m currently working on **STI LABS for the UFPE**
+- 🤝 I’m currently working on **AVANTIA as Software and Hardware Developer**
 
-- 🤝 I’m currently working as a Freelancer on **Video Editing Portfolio**
+- ⚡ I’m currently CEO of Cômodo Nerd, some personal project with nerd entertainment where I make articles and comments about movies, games, animes and TV Shows. 
+  - This profile is on a Website: (https://comodonerd.com.br)
+  - Instagram (https://www.instagram.com/comodonerd/) 
+  - Tik Tok (https://www.tiktok.com/@comodonerd?lang=pt-BR)
 
-- 🌱 I’m currently learning **More about React, mostly about React Native**
-
-- ⚡ I also have some personal project with nerd entertainment where I make videos and articles about movies, games and animes. This profile is Cômodo Nerd - [https://www.instagram.com/comodonerd/](https://www.instagram.com/comodonerd/)
+- 🌱 Currently learning **More about React, Javascript and Java**
 
 - 💬 **What do you want know about me or my codes?**
 
@@ -16,7 +17,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/diogo-souza-78b2b7146" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diogo-souza-78b2b7146" height="30" width="40" /></a>
-<a href="https://discord.gg/#7501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#7501" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

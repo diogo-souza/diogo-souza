@@ -5,7 +5,7 @@
   - The profiles are available on: (https://comodonerd.com.br) || <a href="https://twitter.com/comodonerd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="comodonerd" height="30" width="40" /></a>
 <a href="https://instagram.com/comodonerd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="comodonerd" height="30" width="40" /></a>
 
-- 🌱 Currently learning **More about React, Javascript and Java**
+- 🌱 Currently learning **More about React, Angular and Javascript**
 
 <h3 align="left">📫 How to reach me:</h3>
 <p align="left">

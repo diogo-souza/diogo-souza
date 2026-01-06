@@ -3,7 +3,6 @@
 <br/>
 
   - 🌱 Currently learning about everything I can reach!!
-  - 🖥️ Experienced with Javascript, React, Angular and PHP. Mostly frontend technologies...
 
 <br/>
 <h3 align="center">:hammer_and_wrench: Languages and Tools:</h3>
